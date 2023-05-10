@@ -7,7 +7,7 @@ import './plans.css'
 const Plans = () => {
   return (
     <>
-    <Header title="Membership Plans" image={HeaderImage}>
+    <Header title="Treatment Prices" image={HeaderImage}>
     Assumenda perspiciatis asperiores deserunt quisquam, sit iusto consectetur vero similique aliquam.
     </Header>
     <section className="plans">

@@ -1,4 +1,4 @@
-import Image from '../images/values.jpg'
+import Image from '../images/value.jpeg'
 import SectionHead from './SectionHead'
 import {GiCutDiamond} from 'react-icons/gi'
 import {values} from '../data'
@@ -17,7 +17,7 @@ const Values = () => {
             <div className="values__right">
                 <SectionHead icon={<GiCutDiamond/>} title="Opening Hours"/>
                 <p>
-                    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officiis quidem aperiam sapiente?
+                    Our clinic is opened from Monday to Friday 9am-18pm CET.
                 </p>
                 <div className="values__wrapper">
                     {

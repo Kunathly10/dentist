@@ -58,7 +58,7 @@ h1 {
 
 h2 {
     font-size: 2rem;
-    color: black;
+    color: white;
 }
 
 a {
@@ -90,7 +90,7 @@ img {
 
 .btn:hover {
     background: var(--color-secondary);
-    color: var(--color-gray-600);
+    color: white;
 }
 
 .btn.lg {

@@ -27,7 +27,8 @@
 
 .main__header-left p {
     margin: 1rem 0 3.5rem;
-    font-size: 1.1rem;
+    font-size: 1rem;
+    color: black;
 }
 
 .main__header-right {
@@ -52,13 +53,14 @@
 
 /* ===================== PROGRAMS ===================== */
 .programs {
-    margin-top: 4rem;
+    margin-top: 2rem;
 }
 
 .programs__wrapper {
-    display: grid;
+    display: grid; 
     grid-template-columns: repeat(4, 1fr);
     gap: 3rem;
+    color: white;
     margin-top: 4rem;
 }
 
@@ -82,6 +84,7 @@
 .values__container {
     display: grid;
     grid-template-columns: 38% 50%;
+    color: black;
     gap: 12%;
 }
 
@@ -100,6 +103,7 @@
 
 .values__wrapper {
     display: grid;
+    color: white;
     grid-template-columns: 1fr 1fr;
     gap: 3.4rem 2.4rem;
 }
@@ -209,6 +213,7 @@
 
 .testimonials__btn-container {
     width: fit-content;
+    color: white;
     margin: 2.5rem auto 0;
     display: flex;
     justify-content: center;
@@ -247,6 +252,7 @@ footer {
 
 .footer__container {
     display: grid;
+    color: white;
     grid-template-columns: 26rem 1fr 1fr 1fr;
     gap: 6rem;
 }
@@ -254,6 +260,7 @@ footer {
 .footer__container article {
     display: flex;
     flex-direction: column;
+    font-size: 15;
     align-items: flex-start;
     gap: 0.7rem;
 }

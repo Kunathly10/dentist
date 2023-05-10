@@ -1,5 +1,5 @@
 import {Link} from 'react-router-dom'
-import Logo from '../images/logo.png'
+import Logo from '../images/fotos/IRRIHORTZ KLINIKA.png'
 import { FaLinkedin } from 'react-icons/fa'
 import { FaFacebookF } from 'react-icons/fa'
 import { AiOutlineTwitter } from 'react-icons/ai'
@@ -17,7 +17,7 @@ const Footer = () => {
                     <img src={Logo} alt="Footer Logo" />
                 </Link>
                 <p>
-                    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Qui tenetur harum pariatur! Iusto animi cupiditate, provident dolore porro eum obcaecati.
+                    Visit us today at Irrihortz clinic. We are located at .
                 </p>
                 <div className="footer__socials">
                     <a href="https://linkedin.com/" target="_blank" rel='noreferrer noopener'><FaLinkedin/></a>
@@ -49,7 +49,7 @@ const Footer = () => {
             </article>
         </div>
         <div className="footer__copyright">
-            <small>2022 EGATOR TUTORIALS &copy; All Rights Reserved</small>
+            <small>2023 NATHANIEL OBAFEMI &copy; All Rights Reserved</small>
         </div>
     </footer>
   )

@@ -1,5 +1,5 @@
 import {Link} from 'react-router-dom'
-import Image from '../images/d39f76927377a1f19e2acd6abcf13508.png'
+import Image from '../images/main_header_img.png'
 
 
 const MainHeader = () => {

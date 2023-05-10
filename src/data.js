@@ -98,26 +98,33 @@ export const values = [
     {
         id: 1,
         icon: <SiOpenaigym/>,
-        title: "Value One",
-        desc: "Placeat quidem facere dicta modi? Pariatur exercitationem illum."
+        title: "Monday",
+        desc: "Call us 650017569 to place an appointment. We are avaliable from 9am - 18 pm.",
+    
     },
     {
         id: 2,
         icon: <SiOpenaigym/>,
-        title: "Value Two",
-        desc: "Placeat quidem facere dicta modi? Pariatur exercitationem illum."
+        title: "Tuesday",
+        desc: "Call us 650017569 to place an appointment. We are avaliable from 9am - 18 pm."
     },
     {
         id: 3,
         icon: <SiOpenaigym/>,
-        title: "Value Three",
-        desc: "Placeat quidem facere dicta modi? Pariatur exercitationem illum."
+        title: "Wednesday",
+        desc: "Call us 650017569 to place an appointment. We are avaliable from 9am - 18 pm."
     },
     {
         id: 4,
         icon: <SiOpenaigym/>,
-        title: "Value Four",
-        desc: "Placeat quidem facere dicta modi? Pariatur exercitationem illum."
+        title: "Thursday",
+        desc: "Call us 650017569 to place an appointment. We are avaliable from 9am - 18 pm.."
+    },
+    {
+        id: 5,
+        icon: <SiOpenaigym/>,
+        title: "Friday",
+        desc: "Call us 650017569 to place an appointment. We are avaliable from 9am - 18 pm."
     }
 ]
 
@@ -132,33 +139,33 @@ export const values = [
 export const faqs = [
     {
         id: 1,
-        question: "How often should I exercise?",
-        answer: "Consectetur adipisicing elit. Non ipsa dolorem, rem consequatur eum omnis ex, fuga temporibus qui nesciunt odio aliquam commodi culpa inventore ut similique repellendus perferendis sint!"
+        question: "What services does Irrihortz Clinic offer?",
+        answer: "Irrihortz Clinic offers a range of dental services, including regular check-ups and cleanings, fillings, extractions, crowns and bridges, root canals, Invisalign"
     },
     {
         id: 2,
-        question: "What time of day is best to work out?",
-        answer: "Distinctio nihil blanditiis accusantium atque, quo maxime inventore eum! Cum dolorem quibusdam amet et qui. Eos, omnis beatae? Quas, est at! Molestiae quidem ab soluta exercitationem culpa nostrum iusto illum qui non a harum deserunt atque commodi at velit."
+        question: "How often should I come in for a dental check-up?",
+        answer: "We recommend coming in for a dental check-up and cleaning every six months to maintain optimal dental health."
     },
     {
         id: 3,
-        question: "How long should my workouts be?",
-        answer: "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content."
+        question: "What should I do if I have a dental emergency?",
+        answer: "If you have a dental emergency, such as a broken tooth or severe pain, please call our office immediately. We will do our best to accommodate you as quickly as possible."
     },
     {
         id: 4,
-        question: "Do I need to warm up before my workouts?",
-        answer: "Molestiae quidem ab soluta exercitationem culpa nostrum iusto illum qui non a harum deserunt atque commodi at velit, consequatur quibusdam dignissimos cum labore possimus placeat consectetur nisi cupiditate? Qui totam est omnis dolor nobis quisquam veritatis a!"
+        question: "What forms of payment does Irrihortz Clinic accept?",
+        answer: "Irrihortz Clinic accepts cash, check, and all major credit cards. We also offer financing options through third-party providers."
     },
     {
         id: 5,
-        question: "Should I do strength training, cardio or both?",
-        answer: "Maiores fuga, cum praesentium esse laudantium! Distinctio nihil blanditiis accusantium atque, quo maxime inventore eum! Cum dolorem quibusdam amet et qui."
+        question: "What can I expect during a dental cleaning appointment?",
+        answer: "During a dental cleaning appointment, our dental hygienist will remove plaque and tartar from your teeth, floss between your teeth, and polish your teeth to remove surface stains. They will also check your gums and overall oral health."
     },
     {
         id: 6,
-        question: "Should I lift weights for strength training?",
-        answer: "Quas, est at! Molestiae quidem ab soluta exercitationem culpa nostrum iusto illum qui non a harum deserunt atque commodi at velit, consequatur quibusdam dignissimos cum labore possimus placeat consectetur nisi cupiditate."
+        question: "Does Irrihortz Clinic offer orthodontic treatments like braces?",
+        answer: "Yes, we offer orthodontic treatments like braces and clear aligners to help straighten teeth and correct bite issues. Please contact us to schedule a consultation with our orthodontist."
     }
 ]
 
@@ -172,39 +179,12 @@ export const faqs = [
 export const testimonials = [
     {
         id: 1,
-        name: "Diana Ayi",
-        quote: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium ipsam facere ea a laboriosam sed? Quod vel voluptates a! Maxime minima cumque aut? In expedita numquam consectetur non officia iusto.",
-        job: "Student",
+        name: "Nathaniel Obafemi",
+        quote: "I was treated by Naiara Alkorta and I had the best treatment. She made me felt so comfortable and gave me the best treatment. I would recommend letting her treat you if you go to Irrihortz clinic.",
+        job: "Data Analyst",
         avatar: require("./images/avatar1.jpg")
     },
-    {
-        id: 2,
-        name: "Daniel Vinyo",
-        quote: "Harum quaerat hic consequuntur molestias repellat ad quo tenetur vitae rem, labore quisquam? Atque, assumenda rerum this and that odit harum quaerat hic praesentium quisquam quae, enim iste ipsam id repellat.",
-        job: "Software Egineer",
-        avatar: require("./images/avatar2.jpg")
-    },
-    {
-        id: 3,
-        name: "Edem Quist",
-        quote: "Quaerat hic praesentium consequuntur molestias repellat ad quo tenetur vitae rem, labore quisquam? Atque, assumenda rerum odit harum quaerat hic praesentium quisquam quae, enim iste ipsam id repellat.",
-        job: "University Lecturer",
-        avatar: require("./images/avatar3.jpg")
-    },
-    {
-        id: 4,
-        name: "Grace Lavoe",
-        quote: "Cupiditate deleniti sint consequuntur molestias repellat ad quo tenetur vitae rem, labore quisquam? Atque, assumenda rerum odit harum quaerat hic praesentium quisquam quae, enim iste ipsam id repellat.",
-        job: "Talking Parrot",
-        avatar: require("./images/avatar4.jpg")
-    },
-    {
-        id: 5,
-        name: "Nana Yaa Dankwa",
-        quote: "Maxime minima cumque sit amet consectetur adipisicing elit. Praesentium ipsam facere ea a laboriosam sed? Quod vel voluptates a! Maxime minima cumque aut? In expedita numquam consectetur non officia iusto.",
-        job: "Pharmacist",
-        avatar: require("./images/avatar5.jpg")
-    }
+    
 ]
 
 
@@ -216,7 +196,7 @@ export const testimonials = [
 export const plans = [
     {
         id: 1,
-        name: 'Silver Package',
+        name: 'Price ',
         desc: 'This package is perfect for beginners who need constant help',
         price: 29.99,
         features: [

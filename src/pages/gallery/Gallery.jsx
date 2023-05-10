@@ -15,7 +15,7 @@ const Gallery = () => {
   return (
     <>
       <Header title="Our Gallery" image={HeaderImage}>
-      Quisquam id tenetur adipisci nesciunt ipsum amet in quibusdam, architecto nostrum nobis, est, deserunt odio illum perspiciatis.
+      Our Gallery features photos of our state-of-the-art clinic and our friendly team of dental professionals. Get a glimpse of our facilities, equipment, and staff in action and see how we provide exceptional care to our patients.
       </Header>
       <section className="gallery">
         <div className="container gallery__container">
