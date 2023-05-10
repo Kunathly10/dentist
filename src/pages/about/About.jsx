@@ -14,7 +14,7 @@ const About = () => {
     Welcome to Irrihortz clinic. Our address is at Ernio Bidea 12A, Zizurkil 20159. Book an Appointment with us bhy calling 943-32-66-20. Our Email is irrihortz@gmail.com
     </Header>
 
-    <section className="about__story">
+    <section className="about__story" id = 'about'>
       <div className="container about__story-container">
         <div className="about__section-image">
           <img src={StoryImage} alt="Our Story Image" />

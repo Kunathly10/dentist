@@ -99,32 +99,32 @@ export const values = [
         id: 1,
         icon: <SiOpenaigym/>,
         title: "Monday",
-        desc: "Call us 650017569 to place an appointment. We are avaliable from 9am - 18 pm.",
+        desc: "Call us 65-00-17-569 to place an appointment. We are avaliable from 9am - 18 pm.",
     
     },
     {
         id: 2,
         icon: <SiOpenaigym/>,
         title: "Tuesday",
-        desc: "Call us 650017569 to place an appointment. We are avaliable from 9am - 18 pm."
+        desc: "Call us 65-00-17-569 to place an appointment. We are avaliable from 9am - 18 pm."
     },
     {
         id: 3,
         icon: <SiOpenaigym/>,
         title: "Wednesday",
-        desc: "Call us 650017569 to place an appointment. We are avaliable from 9am - 18 pm."
+        desc: "Call us 65-00-17-569 to place an appointment. We are avaliable from 9am - 18 pm."
     },
     {
         id: 4,
         icon: <SiOpenaigym/>,
         title: "Thursday",
-        desc: "Call us 650017569 to place an appointment. We are avaliable from 9am - 18 pm.."
+        desc: "Call us 65-00-17-569 to place an appointment. We are avaliable from 9am - 18 pm.."
     },
     {
         id: 5,
         icon: <SiOpenaigym/>,
         title: "Friday",
-        desc: "Call us 650017569 to place an appointment. We are avaliable from 9am - 18 pm."
+        desc: "Call us 65-00-17-569 to place an appointment. We are avaliable from 9am - 18 pm."
     }
 ]
 
@@ -182,7 +182,7 @@ export const testimonials = [
         name: "Nathaniel Obafemi",
         quote: "I was treated by Naiara Alkorta and I had the best treatment. She made me felt so comfortable and gave me the best treatment. I would recommend letting her treat you if you go to Irrihortz clinic.",
         job: "Data Analyst",
-        avatar: require("./images/avatar1.jpg")
+        avatar: require("./images/IMG_2288 conv.jpeg")
     },
     
 ]
